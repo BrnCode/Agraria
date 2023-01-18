@@ -24,12 +24,18 @@ https://www.anaconda.com/
 Após a instalação do software siga os seguintes passos:
 1) Abra o software e clique em “Launch” na opção notebook:
 
- Fig1
+<p align="center">
+  <img src="https://github.com/BrnCode/Agraria/blob/743acc446bb3cb9c6deb75cfcb51f03a314b3982/assets/readme1.jpg" alt="fig1">
+</p>
 
 2) Em seguida navegue até a pasta “Agraria – Sprint 1” criada anteriormente e faça o upload do arquivo “Agraria_Sprint_1.ipynb”, como sugere a figura a seguir:
  
- fig2
+ <p align="center">
+  <img src="https://github.com/BrnCode/Agraria/blob/743acc446bb3cb9c6deb75cfcb51f03a314b3982/assets/readme2.jpg" alt="fig2">
+</p>
  
 3) Clique na aba Cell, e vá no opção “Run All”,  como mostrado na figura abaixo:
  
-fig3
+<p align="center">
+  <img src="https://github.com/BrnCode/Agraria/blob/743acc446bb3cb9c6deb75cfcb51f03a314b3982/assets/readme3.jpg" alt="fig3">
+</p>
