@@ -12,9 +12,9 @@ Sugere-se a criação de um diretório principal, de nome "Sprint 1 - Agraria". 
 
 
 
-## Ambiente de desenvolvimento – Windows
+## Ambiente de desenvolvimento 
 
-Instruções gerais para a utilização do jupyter notebook.
+Instruções gerais para a utilização do jupyter notebook em Linux ou Windowns.
 
 Para a correta execução do script, recomenda-se o uso do ambiente de desenvolvimento Jupyter Notebook.
 
